@@ -12,5 +12,5 @@ wheels/
 .next
 .vscode
 
-# files
 TODO.md
+temporal.db
